@@ -9,7 +9,7 @@ A Blockchain implmentation of a Media Store. Implmented with Ethereum Smart-Cont
   $ git clone https://github.com/srirambandi/mediaStore/
   $ cd mediaStore
   $ npm install
-  $ node_modules/.bin/testprc
+  $ node_modules/.bin/testrpc
   $ truffle migrate
   $ npm run dev
 ````
