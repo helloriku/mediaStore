@@ -8,6 +8,11 @@ module.exports = {
       port: 8545,
       network_id: '*', // Match any network id
       gas: 2000000
+    },
+    azureNetwork: {
+      host: "http://ethl7razbwec.eastus.cloudapp.azure.com",
+      network_id: 72,
+      port: 8545
     }
   }
 }
