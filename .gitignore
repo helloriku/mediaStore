@@ -1,2 +1,5 @@
-node_modules/
-build/contracts/
+.gitignore
+contracts/.placeholder
+test/.placeholder
+build
+node_modules
