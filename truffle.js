@@ -7,7 +7,7 @@ module.exports = {
       host: 'localhost',
       port: 8545,
       network_id: '*', // Match any network id
-      gas: 2000000
+      gas: 5000000
     },
     azureNetwork: {
       host: "http://ethl7razbwec.eastus.cloudapp.azure.com",
