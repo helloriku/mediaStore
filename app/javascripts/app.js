@@ -113,13 +113,7 @@ function loadConsumer() {
 
           }
           $('#'+creators[key]).append('</tbody></table></div>');
-        }
-        else {
-          $("#"+creators[key]).append('No songs');
-        }
-
-        }
-        $('#'+creators[key]).append('</tr></table></div>');
+        
       }
       else {
         $("#"+creators[key]).append('No songs');
